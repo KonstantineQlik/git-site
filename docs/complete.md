@@ -59,6 +59,8 @@ You want to merge your local branch to `daily`.
 
 1. `git pull` **
 
+Add commit steps here.
+
 1. `git merge <feature-branch>`
 
 ## Keeping in sync
